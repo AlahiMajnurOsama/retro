@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tv001",
+    "name": "Global News Network",
+    "logoUrl": "https://i.imgur.com/8Q9Z3v2.png",
+    "category": "News",
+    "description": "Global News Network (GNN) provides 24/7 rolling news coverage from around the world. Stay informed with live reports, in-depth analysis, and exclusive interviews.",
+    "link": "https://example.com/live/gnn"
+  },
+  {
+    "id": "tv002",
+    "name": "Sports Arena TV",
+    "logoUrl": "https://i.imgur.com/uP3eQ6k.png",
+    "category": "Sports",
+    "description": "The ultimate destination for sports fans. Watch live matches, highlights, and expert commentary for football, basketball, cricket, and more.",
+    "link": "https://example.com/live/sports-arena"
+  },
+  {
+    "id": "tv003",
+    "name": "CineMax HD",
+    "logoUrl": "https://i.imgur.com/iIMgM9B.png",
+    "category": "Movies",
+    "description": "Your 24/7 channel for blockbuster movies, from timeless classics to modern hits, all in stunning high definition.",
+    "link": "https://example.com/movies/cinemax"
+  }
+]

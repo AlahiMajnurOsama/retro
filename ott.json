@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ott001",
+    "name": "CinemaSphere+",
+    "logoUrl": "https://i.imgur.com/iIMgM9B.png",
+    "category": "Originals",
+    "description": "Home to award-winning original series, blockbuster movies, and compelling documentaries. A new world of entertainment awaits with CinemaSphere+.",
+    "link": "https://cinemasphere.example.com"
+  },
+  {
+    "id": "ott002",
+    "name": "IndieFlix",
+    "logoUrl": "https://i.imgur.com/Q2yD7bS.png",
+    "category": "Independent",
+    "description": "Discover hidden gems and the best of independent cinema from visionary filmmakers across the globe. Curated for the true film lover.",
+    "link": "https://indieflix.example.com"
+  }
+]

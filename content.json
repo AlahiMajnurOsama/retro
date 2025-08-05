@@ -1,0 +1,52 @@
+{
+  "appBranding": {
+    "name": "RETROFLIX",
+    "tagline": "Your Universe of Entertainment"
+  },
+  "entryScreen": {
+    "title": "RETROFLIX",
+    "info": "Your unified portal to the world of streaming. Access live channels and on-demand platforms seamlessly. Welcome to the next generation of entertainment.",
+    "buttonText": "Enter Realm"
+  },
+  "aboutPage": {
+    "title": "About RetroFlix",
+    "subtitle": "Redefining your streaming experience.",
+    "mission": {
+      "heading": "Our Mission",
+      "text": "To simplify the ever-expanding world of digital entertainment. RetroFlix was born from a simple idea: a single, elegant platform to unite all your favorite streaming services. We eliminate the clutter, so you can focus on what matters most—enjoying the content you love."
+    },
+    "vision": {
+      "heading": "The Vision",
+      "text": "We envision a future where access to entertainment is seamless and intuitive. By leveraging cutting-edge technology and fostering strong partnerships, we aim to be the definitive hub for both live and on-demand content, constantly evolving to meet the needs of the modern viewer."
+    },
+    "contact": {
+      "heading": "Contact Us",
+      "text": "Have a question, suggestion, or partnership inquiry? We'd love to hear from you.",
+      "emailGeneral": "support@retroflix.example.com",
+      "emailPartners": "partners@retroflix.example.com"
+    }
+  },
+  "notifications": [
+    {
+      "id": "n001",
+      "type": "alert",
+      "title": "Subscription Expiring",
+      "message": "Your premium plan will expire in 3 days. Renew now to avoid interruption.",
+      "isRead": false
+    },
+    {
+      "id": "n002",
+      "type": "update",
+      "title": "New Partner Added!",
+      "message": "Welcome 'CineMax HD' to our Live TV lineup. Check it out now.",
+      "isRead": false
+    },
+    {
+      "id": "n003",
+      "type": "info",
+      "title": "Welcome to RetroFlix",
+      "message": "We're glad to have you here. Explore our features and enjoy the show.",
+      "isRead": true
+    }
+  ]
+}

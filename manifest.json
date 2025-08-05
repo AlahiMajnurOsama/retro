@@ -1,0 +1,22 @@
+{
+  "name": "RetroFlix Streaming",
+  "short_name": "RetroFlix",
+  "description": "Your unified portal to the world of streaming.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0B10",
+  "theme_color": "#0A0B10",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

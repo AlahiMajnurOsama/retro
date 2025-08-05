@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RetroFlix</title>
+    
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0A0B10">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="RetroFlix">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+
+    <div id="entry-gate">
+        <div class="entry-background"></div>
+        <div class="entry-panel">
+            <h1 class="entry-title"></h1>
+            <p class="entry-info"></p>
+            <button id="enter-button" class="entry-button"></button>
+        </div>
+    </div>
+
+    <header class="top-nav">
+        <div class="logo">RETROFLIX</div>
+        <nav class="nav-links">
+            <a href="#live-tv" class="nav-item" data-page="live-tv">Live TV</a>
+            <a href="#ott" class="nav-item" data-page="ott">OTT</a>
+            <a href="#about" class="nav-item" data-page="about">About Us</a>
+        </nav>
+        <div class="nav-actions">
+            <div id="notification-bell" class="notification-bell">
+                <i class='bx bxs-bell'></i>
+                <div class="notification-dot"></div>
+            </div>
+            <label class="theme-switch" id="desktop-theme-switch">
+                <input type="checkbox" class="theme-checkbox">
+                <div class="switch-slider">
+                    <i class='bx bx-moon'></i><i class='bx bx-sun'></i>
+                </div>
+            </label>
+        </div>
+    </header>
+    
+    <div id="notification-center" class="notification-center">
+        <div class="notification-header">
+            <h3>Notifications</h3>
+            <button id="notification-clear-all" class="clear-all-btn">Clear All</button>
+        </div>
+        <div id="notification-list" class="notification-list"></div>
+    </div>
+
+    <main id="app-content"></main>
+
+    <nav class="bottom-nav">
+        <a href="#live-tv" class="nav-item" data-page="live-tv">
+            <i class='bx bx-tv'></i>
+            <span class="nav-text">Live TV</span>
+        </a>
+        <a href="#ott" class="nav-item" data-page="ott">
+            <i class='bx bx-movie-play'></i>
+            <span class="nav-text">OTT</span>
+        </a>
+        <a href="#notifications" id="mobile-notification-icon" class="nav-item" data-page="notifications">
+            <i class='bx bxs-bell'></i>
+            <div class="notification-dot"></div>
+            <span class="nav-text">Alerts</span>
+        </a>
+        <a href="#about" class="nav-item" data-page="about">
+            <i class='bx bx-info-circle'></i>
+            <span class="nav-text">About</span>
+        </a>
+    </nav>
+
+    <script src="script.js"></script>
+</body>
+</html>
