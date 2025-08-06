@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <h1 class="detail-title">${item.name}</h1>
                         <p class="detail-category">${item.category}</p>
                     </div>
-                    <a href="${item.link}" target="_blank" class="primary-button">Visit Partner</a>
+                    <a href="${item.link}" target="_blank" class="primary-button">Visit Site</a>
                 </div>
                 <p class="detail-description">${item.description}</p>
             </div>`;
@@ -321,4 +321,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- START THE APP ---
     main();
+
 });
