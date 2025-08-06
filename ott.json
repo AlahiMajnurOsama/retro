@@ -1,18 +1,426 @@
 [
   {
     "id": "ott001",
-    "name": "CinemaSphere+",
-    "logoUrl": "https://i.imgur.com/iIMgM9B.png",
-    "category": "Originals",
-    "description": "Home to award-winning original series, blockbuster movies, and compelling documentaries. A new world of entertainment awaits with CinemaSphere+.",
-    "link": "https://cinemasphere.example.com"
+    "name": "CandyBD",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX Movie Server",
+    "description": "A BDIX-connected FTP server offering a collection of movies.",
+    "link": "http://CandyBD.net"
   },
   {
     "id": "ott002",
-    "name": "IndieFlix",
-    "logoUrl": "https://i.imgur.com/Q2yD7bS.png",
-    "category": "Independent",
-    "description": "Discover hidden gems and the best of independent cinema from visionary filmmakers across the globe. Curated for the true film lover.",
-    "link": "https://indieflix.example.com"
+    "name": "Rongdhong",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX Movie Server",
+    "description": "A movie server provided by Digijadoo.",
+    "link": "http://rd.digijadoo.net/"
+  },
+  {
+    "id": "ott003",
+    "name": "FG BD Vibes",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX Movie Server",
+    "description": "A streaming platform for movies and series, accessible via BDIX.",
+    "link": "https://fgbdvibes.vercel.app"
+  },
+  {
+    "id": "ott004",
+    "name": "Jadoo Cinema",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX Movie Server",
+    "description": "An online platform to watch a wide variety of movies.",
+    "link": "https://www.jadoocinema.net/all-movies.html"
+  },
+  {
+    "id": "ott005",
+    "name": "XFlixBD",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX Movie Server",
+    "description": "A movie server offering a range of films within the BDIX network.",
+    "link": "http://xflixbd.com"
+  },
+  {
+    "id": "ott006",
+    "name": "Binudon BDIX",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX Movie Server",
+    "description": "A BDIX-powered movie server for streaming content.",
+    "link": "http://bdix.binudon.com"
+  },
+  {
+    "id": "ott007",
+    "name": "1337x",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Torrent Search Engine",
+    "description": "A popular search engine for finding torrent files.",
+    "link": "http://www.1337x.to/"
+  },
+  {
+    "id": "ott008",
+    "name": "RARBG",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Torrent",
+    "description": "A well-known torrent website for movies, TV shows, and more.",
+    "link": "http://rargb.to/"
+  },
+  {
+    "id": "ott009",
+    "name": "Limetorrents",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Torrent",
+    "description": "A torrent index with a large database of files.",
+    "link": "http://limetorrents.so/"
+  },
+  {
+    "id": "ott010",
+    "name": "Skidrow Reloaded",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Games",
+    "description": "A popular site for downloading cracked video games.",
+    "link": "http://www.skidrowreloaded.com/"
+  },
+  {
+    "id": "ott011",
+    "name": "Plex",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A global streaming service offering a wide range of on-demand content.",
+    "link": "https://watch.plex.tv/on-demand"
+  },
+  {
+    "id": "ott012",
+    "name": "AdultSwim",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Entertainment",
+    "description": "Official site for the Adult Swim network, featuring videos and shows.",
+    "link": "http://AdultSwim.com/videos"
+  },
+  {
+    "id": "ott013",
+    "name": "HD Movie 1",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Movies",
+    "description": "A free movie streaming site.",
+    "link": "https://hdmovie1.free.nf"
+  },
+  {
+    "id": "ott014",
+    "name": "FlixSix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Movies",
+    "description": "A platform for streaming movies online.",
+    "link": "https://flixsix.com"
+  },
+  {
+    "id": "ott015",
+    "name": "Playary",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A streaming service for various types of media.",
+    "link": "https://app.playary.com/"
+  },
+  {
+    "id": "ott016",
+    "name": "Fawesome",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A free streaming service for movies and TV shows.",
+    "link": "https://fawesome.tv/home"
+  },
+  {
+    "id": "ott017",
+    "name": "Online4u",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Movies",
+    "description": "A website to watch movies online.",
+    "link": "http://Online4u.net"
+  },
+  {
+    "id": "ott018",
+    "name": "MojaLoss Stream",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A Bangladeshi streaming site.",
+    "link": "https://www.mojaloss.stream/"
+  },
+  {
+    "id": "ott019",
+    "name": "Ctg Movie",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A movie server based in Chittagong.",
+    "link": "http://103.145.232.246/"
+  },
+  {
+    "id": "ott020",
+    "name": "Fanush",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A web-based media player for a local server.",
+    "link": "http://103.132.95.221:8096/web/index.html#!/home.html"
+  },
+  {
+    "id": "ott021",
+    "name": "FMFTP",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "An FTP server with a data directory.",
+    "link": "https://fmftp.net/Data"
+  },
+  {
+    "id": "ott022",
+    "name": "Pabna Cable Vision",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A media server by Pabna Cable Vision.",
+    "link": "http://media.pabnacablevision.net"
+  },
+  {
+    "id": "ott023",
+    "name": "Streaming Community",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A family of sites for streaming movies and series.",
+    "link": "https://streamingcommunity.family"
+  },
+  {
+    "id": "ott024",
+    "name": "ValhallaStream",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A streaming platform for movies, TV shows, and anime.",
+    "link": "https://valhallastream.com"
+  },
+  {
+    "id": "ott025",
+    "name": "DinoStreaming",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "An Italian streaming site.",
+    "link": "http://dinostreaming.it"
+  },
+  {
+    "id": "ott026",
+    "name": "EliteFlix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "An OTT platform for streaming content.",
+    "link": "https://eliteflix.xyz/"
+  },
+  {
+    "id": "ott027",
+    "name": "AlienFlix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A streaming site for movies and series.",
+    "link": "https://alienflix.net/"
+  },
+  {
+    "id": "ott028",
+    "name": "Channel Myanmar",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Regional",
+    "description": "A site for Myanmarese content.",
+    "link": "https://www.channelmyanmar.to/"
+  },
+  {
+    "id": "ott029",
+    "name": "AsiaFlix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Regional",
+    "description": "A streaming platform for Asian content.",
+    "link": "https://asiaflix.net/home"
+  },
+  {
+    "id": "ott030",
+    "name": "Stremio",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A modern media center that's a one-stop solution for your video entertainment.",
+    "link": "https://web.stremio.com/"
+  },
+  {
+    "id": "ott031",
+    "name": "WatchCartoonOnline",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Cartoons",
+    "description": "A website to watch cartoons online for free.",
+    "link": "http://watchcartoononline.com"
+  },
+  {
+    "id": "ott032",
+    "name": "Anime Unity",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Anime",
+    "description": "An Italian website for streaming anime.",
+    "link": "https://www.animeunity.to"
+  },
+  {
+    "id": "ott033",
+    "name": "FaselHD",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A streaming site for movies, TV, and anime with subtitles.",
+    "link": "https://www.faselhd.center"
+  },
+  {
+    "id": "ott034",
+    "name": "KissAsian",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Regional",
+    "description": "A site to watch Korean and other Asian dramas.",
+    "link": "https://kissasiantv.best/"
+  },
+  {
+    "id": "ott035",
+    "name": "AsianCrush",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Regional",
+    "description": "A streaming service for Asian movies and TV shows.",
+    "link": "https://www.asiancrush.com/"
+  },
+  {
+    "id": "ott036",
+    "name": "WeCima",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Regional",
+    "description": "An Arabian streaming site for movies and series.",
+    "link": "https://wecima.watch"
+  },
+  {
+    "id": "ott037",
+    "name": "ToonGrid",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Anime/Cartoon",
+    "description": "A platform for watching popular anime movies and TV shows.",
+    "link": "https://toongrid.com/"
+  },
+  {
+    "id": "ott038",
+    "name": "Green Surma OTT",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "An OTT platform accessible via Green Surma Wifi.",
+    "link": "http://103.135.172.18/"
+  },
+  {
+    "id": "ott039",
+    "name": "iFlix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A free and subscription video on demand service.",
+    "link": "https://www.iflix.com/en"
+  },
+  {
+    "id": "ott040",
+    "name": "WeTV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A streaming platform with a wide variety of Asian dramas and shows.",
+    "link": "https://wetv.vip/en"
+  },
+  {
+    "id": "ott041",
+    "name": "DFlix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A movie server by Discovery FTP.",
+    "link": "https://dflix.discoveryftp.net/m"
+  },
+  {
+    "id": "ott042",
+    "name": "Royal Flix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A local movie server.",
+    "link": "http://103.112.150.230/"
+  },
+  {
+    "id": "ott043",
+    "name": "CTG Hall",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A Chittagong-based entertainment portal.",
+    "link": "https://ctghall.com"
+  },
+  {
+    "id": "ott044",
+    "name": "Cinefreak",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A movie and entertainment website.",
+    "link": "http://Cinefreak.net"
+  },
+  {
+    "id": "ott045",
+    "name": "Gold's Cine",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "An online cinema platform.",
+    "link": "https://goldscine.online/"
+  },
+  {
+    "id": "ott046",
+    "name": "CTG Movies",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A website dedicated to Chittagonian movies.",
+    "link": "http://ctgmovies.com/"
+  },
+  {
+    "id": "ott047",
+    "name": "Toffee",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A live streaming platform by Banglalink.",
+    "link": "https://toffeelive.com"
+  },
+  {
+    "id": "ott048",
+    "name": "Bioscope",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A live TV and video streaming platform.",
+    "link": "https://bioscopelive.com"
+  },
+  {
+    "id": "ott049",
+    "name": "Banglaflix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A Bangladeshi video streaming service.",
+    "link": "https://banglaflix.com.bd"
+  },
+  {
+    "id": "ott050",
+    "name": "NoaTube",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "An entertainment portal from the Noakhali region.",
+    "link": "http://NoaTube.com"
+  },
+  {
+    "id": "ott051",
+    "name": "NowHDTime",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BD",
+    "description": "A website for HD movie streaming.",
+    "link": "https://nowhdtime.com.bd"
+  },
+  {
+    "id": "ott052",
+    "name": "HDiFlix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A streaming site for HD movies.",
+    "link": "https://hdiflix.top/"
+  },
+  {
+    "id": "ott053",
+    "name": "Radio BD",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczPXYUD_e9mJziAjNss8_kHIBh1kGpMmislvDQdfWmx8lxPApXbYqc2XqZV1RQqZximTRI20cLd0fjSn35It8mrmn-WwXX0jt4Iejjrcc9qtBw2M5vwRbFxkUWyHr2W4OrWJw8QhKlIvZL6-SD5eNYwh=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Radio",
+    "description": "An online radio streaming platform from Bangladesh.",
+    "link": "http://radio-bd.com"
   }
 ]
