@@ -5,11 +5,11 @@
   },
   "entryScreen": {
     "title": "RETROFLIX",
-    "info": "Your unified portal to the world of streaming. Access live channels and on-demand platforms seamlessly. Welcome to the next generation of entertainment.",
+    "info": "Welcome to the Universe of streaming. Access live channels and on-demand platforms seamlessly. Enter the next generation of entertainment.",
     "buttonText": "Enter Realm"
   },
   "aboutPage": {
-    "title": "About RetroFlix",
+    "title": "",
     "subtitle": "Redefining your streaming experience.",
     "mission": {
       "heading": "Our Mission",
@@ -21,32 +21,25 @@
     },
     "contact": {
       "heading": "Contact Us",
-      "text": "Have a question, suggestion, or partnership inquiry? We'd love to hear from you.",
-      "emailGeneral": "support@retroflix.example.com",
-      "emailPartners": "partners@retroflix.example.com"
+      "text": "Have a question, suggestion!? , We are eagerly Waiting to talk! ",
+      "emailGeneral": "mrash541@duck.com"
     }
   },
   "notifications": [
     {
-      "id": "n001",
-      "type": "alert",
-      "title": "Subscription Expiring",
-      "message": "Your premium plan will expire in 3 days. Renew now to avoid interruption.",
-      "isRead": false
-    },
-    {
       "id": "n002",
       "type": "update",
-      "title": "New Partner Added!",
-      "message": "Welcome 'CineMax HD' to our Live TV lineup. Check it out now.",
+      "title": "New OTT and Live Tv Channels Added!",
+      "message": "Check out our new channels now.",
       "isRead": false
     },
     {
-      "id": "n003",
+      "id": "n001",
       "type": "info",
       "title": "Welcome to RetroFlix",
       "message": "We're glad to have you here. Explore our features and enjoy the show.",
       "isRead": true
     }
   ]
+
 }
