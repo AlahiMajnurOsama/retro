@@ -1,26 +1,258 @@
 [
   {
     "id": "tv001",
-    "name": "Global News Network",
-    "logoUrl": "https://i.imgur.com/8Q9Z3v2.png",
-    "category": "News",
-    "description": "Global News Network (GNN) provides 24/7 rolling news coverage from around the world. Stay informed with live reports, in-depth analysis, and exclusive interviews.",
-    "link": "https://example.com/live/gnn"
+    "name": "Photocall TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "International TV",
+    "description": "Access a wide array of international TV channels online. Photocall TV provides a directory to watch live broadcasts from around the world.",
+    "link": "https://photocalltv.org/"
   },
   {
     "id": "tv002",
-    "name": "Sports Arena TV",
-    "logoUrl": "https://i.imgur.com/uP3eQ6k.png",
-    "category": "Sports",
-    "description": "The ultimate destination for sports fans. Watch live matches, highlights, and expert commentary for football, basketball, cricket, and more.",
-    "link": "https://example.com/live/sports-arena"
+    "name": "Doma TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A live TV streaming platform offering various channels for online viewing.",
+    "link": "http://live.domatv.net"
   },
   {
     "id": "tv003",
-    "name": "CineMax HD",
-    "logoUrl": "https://i.imgur.com/iIMgM9B.png",
-    "category": "Movies",
-    "description": "Your 24/7 channel for blockbuster movies, from timeless classics to modern hits, all in stunning high definition.",
-    "link": "https://example.com/movies/cinemax"
+    "name": "TV Hay HD",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "Provides access to a variety of live TV channels in high definition.",
+    "link": "https://tv.tvhayhd.org"
+  },
+  {
+    "id": "tv004",
+    "name": "DistroTV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A free streaming service offering a diverse range of live TV channels and on-demand content.",
+    "link": "https://distro.tv"
+  },
+  {
+    "id": "tv005",
+    "name": "OnTiVi",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "An online platform for watching live television channels.",
+    "link": "https://ip.ontivi.net"
+  },
+  {
+    "id": "tv006",
+    "name": "Zindu TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A live streaming service for various television channels.",
+    "link": "http://Zindu.tv"
+  },
+  {
+    "id": "tv007",
+    "name": "Ayan Live TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Blog",
+    "description": "A blogspot page listing various TV channels from around the world.",
+    "link": "https://ayanlivetv.blogspot.com/2024/12/tv-channels-all-over-world.html"
+  },
+  {
+    "id": "tv008",
+    "name": "Totaflix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A streaming site offering access to live TV channels.",
+    "link": "https://totaflix.top"
+  },
+  {
+    "id": "tv009",
+    "name": "Dangguli",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A live streaming platform for entertainment content.",
+    "link": "https://dangguli.live/"
+  },
+  {
+    "id": "tv010",
+    "name": "RS Live TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A website for streaming live television channels.",
+    "link": "http://rslivetv.wuaze.com"
+  },
+  {
+    "id": "tv011",
+    "name": "Bostaflix",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Streaming",
+    "description": "A web-based streaming service, potentially for movies and series.",
+    "link": "https://bostaflix.vercel.app"
+  },
+  {
+    "id": "tv012",
+    "name": "IPTV 24 BD",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "IPTV",
+    "description": "An IPTV service providing live channel streaming in Bangladesh.",
+    "link": "http://iptv24bd.live/"
+  },
+  {
+    "id": "tv013",
+    "name": "BDIX TV Server",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX TV",
+    "description": "A BDIX server for streaming live TV channels within Bangladesh.",
+    "link": "https://bdixtv.serverbd247.com/"
+  },
+  {
+    "id": "tv014",
+    "name": "BDIX TV 24",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX TV",
+    "description": "24/7 live TV streaming over the BDIX network.",
+    "link": "https://bdixtv24.tv"
+  },
+  {
+    "id": "tv015",
+    "name": "CTG TV BDIX",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX TV",
+    "description": "A local BDIX TV server, likely based in Chittagong.",
+    "link": "http://172.20.3.1"
+  },
+  {
+    "id": "tv016",
+    "name": "Eamin Talukdar TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A personal website hosting live TV streams.",
+    "link": "http://eamintalukdar.rf.gd"
+  },
+  {
+    "id": "tv017",
+    "name": "IPTV Server",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "IPTV",
+    "description": "A direct link to an IPTV service.",
+    "link": "http://103.154.49.205/iptv/"
+  },
+  {
+    "id": "tv018",
+    "name": "Bangla IPTV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "IPTV",
+    "description": "A provider of IPTV services with a focus on Bangladeshi channels.",
+    "link": "http://BanglaIPTV.com"
+  },
+  {
+    "id": "tv019",
+    "name": "Dekhbo Online",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "An online portal to watch live television.",
+    "link": "http://dekhbo.online/live-tv"
+  },
+  {
+    "id": "tv020",
+    "name": "Free Inter TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "International TV",
+    "description": "Watch a variety of international TV channels for free.",
+    "link": "http://www.freeintertv.com/"
+  },
+  {
+    "id": "tv021",
+    "name": "FTP Servers BD - Live TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX TV",
+    "description": "A directory of BDIX live TV servers in Bangladesh.",
+    "link": "https://ftpserversbd.com/live-tv-server/"
+  },
+  {
+    "id": "tv022",
+    "name": "Canal Live TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A service for watching live TV channels from various sources.",
+    "link": "https://canallive.tv/"
+  },
+  {
+    "id": "tv023",
+    "name": "Nadim Raza TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "An online portal for live streaming sports, movies, series, and TV shows.",
+    "link": "http://www.nadimrazatv.online"
+  },
+  {
+    "id": "tv024",
+    "name": "CXTV Live",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A platform offering live streaming of various TV channels.",
+    "link": "http://CXTVLive.com"
+  },
+  {
+    "id": "tv025",
+    "name": "Cubik TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A service for watching a variety of television channels live.",
+    "link": "https://cubiktv.com"
+  },
+  {
+    "id": "tv026",
+    "name": "TV Shihab",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A personal website or small platform for live TV streaming.",
+    "link": "https://tv-shihab.xyz/"
+  },
+  {
+    "id": "tv027",
+    "name": "Telebisyon",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "A Vercel-hosted app for watching television channels.",
+    "link": "https://telebisyon.vercel.app/"
+  },
+  {
+    "id": "tv028",
+    "name": "Plex Live TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Live TV",
+    "description": "Plex's service for watching and recording live broadcast channels.",
+    "link": "https://watch.plex.tv/live-tv/"
+  },
+  {
+    "id": "tv029",
+    "name": "Maruf TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Blog",
+    "description": "A blogspot page, likely featuring embedded live TV streams or links.",
+    "link": "https://maruf-tv.blogspot.com"
+  },
+  {
+    "id": "tv030",
+    "name": "TV Garden",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "International TV",
+    "description": "A garden of television channels, offering streams from around the world.",
+    "link": "https://tv.garden"
+  },
+  {
+    "id": "tv031",
+    "name": "BDIX TV 247",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "BDIX TV",
+    "description": "Another BDIX-based TV streaming service for Bangladeshi users.",
+    "link": "https://bdixtv247.techpriyo.com/"
+  },
+  {
+    "id": "tv032",
+    "name": "Elahmad TV",
+    "logoUrl": "https://lh3.googleusercontent.com/pw/AP1GczN8Yqt_CPwSaRt3kD1Y9EQe7nNqJz2v2w0ElEOFwJEOnH_KDJgKAh7BWkAqGUU8Uehd8nO4gKFmcJXqQoBdqq1VPEl5RkMJRsJFgrjgdG_gOBPUnj6gNtU0jpxDp9vDiTvz82TO0vNTbIfK8Wu1IsWI=w1080-h1080-s-no-gm?authuser=0",
+    "category": "Arabic TV",
+    "description": "Provides live streaming of various Arabic television channels.",
+    "link": "https://www.elahmad.com/tv/arabic-live-channels.php"
   }
 ]
